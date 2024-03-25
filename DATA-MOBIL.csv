@@ -1,0 +1,135 @@
+,vehicleModelDate,brandName,name
+0,2020,Honda,2020 Honda Brio 1.2 Satya E Hatchback
+1,2017,Mitsubishi,2017 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+2,2018,Toyota,2018 Toyota Rush 1.5 TRD Sportivo SUV
+3,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+4,2019,Honda,2019 Honda Brio Satya E Hatchback
+5,2015,Toyota,2015 Toyota Agya 1.0 G Hatchback
+6,2018,Toyota,2018 Toyota Kijang Innova 2.0 G MPV
+7,2017,Toyota,2017 Toyota Kijang Innova 2.0 G MPV
+8,2018,Toyota,2018 Toyota Rush 1.5 TRD Sportivo SUV
+9,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+10,2019,Honda,2019 Honda Brio Satya E Hatchback
+11,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+12,2019,Wuling,2019 Wuling Cortez 1.5 Turbo L Lux+ Wagon
+13,2017,Nissan,2017 Nissan Grand Livina XV Highway Star MPV
+14,2018,Daihatsu,2018 Daihatsu Ayla 1.2 R Hatchback
+15,2022,Toyota,2022 Toyota Avanza 1.5 G MPV
+16,2019,Honda,2019 Honda Brio 1.2 Satya E Hatchback
+17,2018,Mitsubishi,2018 Mitsubishi Xpander ULTIMATE Wagon
+18,2019,Mitsubishi,2019 Mitsubishi Xpander 1.5 EXCEED Wagon
+19,2015,Daihatsu,2015 Daihatsu Terios 1.5 X SUV
+"20,2019,Toyota,""2019 Toyota Agya TRD Hatchback Promo Potongan 2JT, Siap Pakai, Hubungi sekarang!"""
+21,2020,Toyota,2020 Toyota Agya 1.2 TRD Hatchback
+22,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+23,2016,Toyota,2016 Toyota Kijang Innova 2.0 V MPV
+"24,2018,Mitsubishi,""2018 Mitsubishi Outlander Sport PX SUV Promo Potongan 5JT, Siap Pakai, Hubungi sekarang!"""
+25,2015,Honda,2015 Honda HR-V 1.5 E SUV
+26,2021,Mazda,2021 Mazda CX-3 Sport Wagon
+27,2021,Honda,2021 Honda City 1.5 RS Hatchback
+28,2019,Mazda,2019 Mazda CX-5 Elite SUV
+29,2021,Wuling,2021 Wuling Almaz LT Lux+ Exclusive Wagon
+30,2018,Mercedes-Benz,2018 Mercedes-Benz GLA200 1.6 AMG SUV
+31,2018,Toyota,2018 Toyota Yaris 1.5 TRD Sportivo Hatchback
+"32,2021,Daihatsu,""2021 Daihatsu Rocky R TC Wagon Promo Potongan 1JT, Siap Pakai, Hubungi sekarang!"""
+33,2017,Honda,2017 Honda Jazz 1.5 RS Hatchback
+34,2019,Honda,2019 Honda HR-V 1.5 E Special Edition SUV
+35,2020,Honda,2020 Honda Brio 1.2 RS Hatchback
+36,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 EXCEED Wagon
+37,2017,Honda,2017 Honda CR-V 1.5 VTEC SUV
+38,2019,Toyota,2019 Toyota Kijang Innova G MPV
+39,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+40,2019,Honda,2019 Honda Brio 1.2 Satya E Hatchback
+41,2019,Mitsubishi,2019 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+42,2018,Honda,2018 Honda Brio RS Hatchback
+43,2017,Suzuki,2017 Suzuki Ignis GX Hatchback
+44,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 SPORT Wagon
+45,2017,Suzuki,2017 Suzuki SX4 S-Cross 1.5 Hatchback
+46,2018,Mazda,2018 Mazda CX-3 2.0 Touring Wagon
+47,2022,Toyota,2022 Toyota Agya 1.2 G Hatchback
+48,2013,Toyota,2013 Toyota Kijang Innova 2.0 G MPV
+"49,2018,Mitsubishi,""2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon Promo Potongan 1JT, Siap Pakai, Hubungi sekarang"""
+50,2019,Honda,2019 Honda Brio Satya E Hatchback
+51,2016,Toyota,2016 Toyota Kijang Innova V MPV
+"52,2017,Mitsubishi,""2017 Mitsubishi Xpander SPORT Wagon Promo Potongan 1JT, Siap Pakai, Hubungi sekarang!"""
+53,2020,Honda,2020 Honda Brio 1.2 RS Hatchback
+54,2021,Toyota,2021 Toyota Raize 1.0 G Wagon
+55,2014,Nissan,2014 Nissan March 1.5 1.5L Hatchback
+56,2017,Toyota,2017 Toyota Avanza G MPV
+57,2017,Suzuki,2017 Suzuki Ignis 1.2 GX Hatchback
+58,2017,Mitsubishi,2017 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+59,2017,Daihatsu,2017 Daihatsu Ayla 1.2 R Deluxe Hatchback
+60,2018,Honda,2018 Honda HR-V 1.5 E Special Edition SUV
+"61,2021,Honda,""2021 Honda City 1.5 RS Hatchback Promo Potongan 1JT, Siap Pakai, Hubungi sekarang"""
+62,2017,Chevrolet,2017 Chevrolet Trax 1.4 LTZ SUV
+63,2022,Daihatsu,2022 Daihatsu Rocky X Wagon
+64,2019,Wuling,2019 Wuling Almaz 1.5 S+T Smart Enjoy Wagon
+65,2015,Mazda,2015 Mazda 2 1.5 R Hatchback
+66,2018,Mitsubishi,2018 Mitsubishi Pajero Sport Dakar SUV
+67,2015,Nissan,2015 Nissan X-Trail 2.5 Wagon
+68,2019,Toyota,2019 Toyota Yaris 1.5 G Hatchback
+69,2017,Suzuki,2017 Suzuki SX4 S-Cross 1.5 Hatchback
+70,2021,Toyota,2021 Toyota Raize GR Sport TSS Wagon
+71,2014,Honda,2014 Honda Jazz RS Hatchback
+72,2018,Honda,2018 Honda HR-V E Special Edition SUV
+"73,2021,Honda,""2021 Honda City RS Hatchback Promo Potongan 2JT, Siap Pakai, Hubungi sekarang!"""
+"74,2021,Daihatsu,""2021 Daihatsu Rocky R TC Wagon Promo Potongan 1JT, Siap Pakai, Hubungi sekarang!"""
+"75,2017,Honda,""2017 Honda CR-V 1.5 VTEC SUV Promo Potongan 5JT, Siap Pakai, Hubungi sekarang!"""
+76,2014,Toyota,2014 Toyota Kijang Innova 2.0 G MPV
+77,2015,Nissan,2015 Nissan Grand Livina 1.5 SV MPV
+78,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+79,2016,Honda,2016 Honda Brio RS Hatchback
+80,2020,Honda,2020 Honda Brio 1.2 RS Hatchback
+81,2019,Toyota,2019 Toyota Avanza 1.3 G MPV
+82,2021,Wuling,2021 Wuling Cortez 1.5 S Lux Turbo Wagon
+83,2017,Nissan,2017 Nissan Grand Livina 1.5 XV Highway Star MPV
+84,2020,Daihatsu,2020 Daihatsu Ayla 1.2 R Hatchback
+85,2018,Toyota,2018 Toyota Rush 1.5 TRD Sportivo SUV
+86,2018,Toyota,2018 Toyota Kijang Innova 2.0 G MPV
+87,2019,Toyota,2019 Toyota Avanza 1.3 G MPV
+88,2019,Honda,2019 Honda Brio 1.2 Satya E Hatchback
+89,2019,Daihatsu,2019 Daihatsu Ayla 1.2 R Hatchback
+90,2016,Toyota,2016 Toyota Kijang Innova 2.0 V MPV
+91,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+"92,2018,Mitsubishi,""2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon Promo Potongan 1JT, Siap Pakai, Hubungi sekarang!"""
+93,2017,Daihatsu,2017 Daihatsu Xenia 1.3 R MPV
+94,2019,Toyota,2019 Toyota Rush 1.5 TRD Sportivo SUV
+95,2018,Honda,2018 Honda Brio RS Hatchback
+96,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+97,2018,Toyota,2018 Toyota Rush 1.5 TRD Sportivo SUV
+"98,2019,Toyota,""2019 Toyota Agya G Hatchback Promo Potongan 1JT, Siap Pakai, Hubungi sekarang!"""
+99,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+100,2013,Toyota,2013 Toyota Kijang Innova 2.0 V MPV
+101,2019,Honda,2019 Honda HR-V 1.5 E Special Edition SUV
+102,2020,Mitsubishi,2020 Mitsubishi Eclipse Cross 1.5 Ultimate Wagon
+103,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+104,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+105,2017,Honda,2017 Honda CR-V 2.4 SUV
+"106,2017,Honda,""2017 Honda Brio RS Hatchback Promo Potongan 1JT, Siap Pakai, Hubungi sekarang!"""
+"107,2016,Toyota,""2016 Toyota Fortuner G SUV  Promo Potongan 7JT, Siap Pakai, Hubungi sekarang!"""
+108,2017,Toyota,2017 Toyota Innova Venturer 2.0 Wagon
+109,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+110,2018,Honda,2018 Honda Brio 1.2 RS Hatchback
+111,2014,Toyota,2014 Toyota Kijang Innova 2.0 V MPV
+112,2019,Daihatsu,2019 Daihatsu Terios R SUV
+113,2019,Honda,2019 Honda Brio 1.2 Satya E Hatchback
+114,2017,Daihatsu,2017 Daihatsu Ayla 1.0 X Hatchback
+115,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+116,2019,Nissan,2019 Nissan Livina VL Wagon
+117,2019,Mitsubishi,2019 Mitsubishi Xpander 1.5 ULTIMATE Wagon
+118,2017,Toyota,2017 Toyota Kijang Innova 2.0 V MPV
+"119,2019,Honda,""2019 Honda Brio RS Hatchback Promo Potongan 2JT, Siap Pakai, Hubungi sekarang!"""
+120,2018,Honda,2018 Honda Brio Satya E Hatchback
+121,2018,Mitsubishi,2018 Mitsubishi Xpander ULTIMATE Wagon
+122,2016,Toyota,2016 Toyota Sienta V MPV
+123,2018,Toyota,2018 Toyota Fortuner VRZ SUV
+124,2017,Toyota,2017 Toyota Innova Venturer 2.0 Wagon
+125,2018,Mitsubishi,2018 Mitsubishi Xpander EXCEED Wagon
+126,2018,Mitsubishi,2018 Mitsubishi Xpander ULTIMATE Wagon
+"127,2017,Honda,""2017 Honda Brio Satya E Hatchback Promo Potongan 1JT, Siap Pakai, Hubungi sekarang!"""
+128,2015,Mazda,2015 Mazda CX-5 Grand Touring SUV
+129,2016,Mazda,2016 Mazda 2 GT Hatchback
+130,2017,Mazda,2017 Mazda CX-5 2.5 Elite SUV
+131,2021,Honda,2021 Honda City 1.5 RS Hatchback
+132,2018,Toyota,2018 Toyota Agya 1.2 TRD Hatchback
+133,2018,Mitsubishi,2018 Mitsubishi Xpander 1.5 ULTIMATE Wagon
